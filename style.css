@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    ;
+
+}
+
+.navbar{
+    background-color: #192537;
+    height: 100px;
+
+}
+
+.menu{
+    text-align: right;
+}
